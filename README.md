@@ -1,1 +1,1 @@
-Repositorio para o bootcamp da DIO Pottencial .NET Developer
+Repositorio para desenvolver os projeto do bootcamp da DIO Pottencial .NET Developer

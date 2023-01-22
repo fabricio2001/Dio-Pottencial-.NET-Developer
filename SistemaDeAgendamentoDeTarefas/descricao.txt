@@ -1,0 +1,8 @@
+Materiais de Apoio
+ 
+GitHub
+Todo código-fonte desenvolvido durante o curso foi versionado no GitHub, no seguinte endereço:
+
+https://github.com/digitalinnovationone/trilha-net-api-desafio
+
+Bons estudos! 
